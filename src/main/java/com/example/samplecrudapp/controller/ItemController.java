@@ -9,7 +9,8 @@ import java.net.URI;
 import java.util.List;
 import java.util.Map;
 
-@RestController
+//Making wrong fix
+//@RestController
 @RequestMapping("/api/items")
 public class ItemController {
 
